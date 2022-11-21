@@ -153,7 +153,7 @@ public: //외부접근가능
 	}
 };
 
-class vec1x4 //1*3
+class vec1x4 //1*4
 {
 public: //외부접근가능
 
@@ -176,7 +176,7 @@ public: //외부접근가능
 	}
 };
 
-class vec4 //3*1
+class vec4 //4*1
 {
 public: //외부접근가능
 	float x, y, z,w;
